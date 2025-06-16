@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<symposium>
+<symp>
+    <sy>A</sy>
+    <desc>Electronic and Photonic Materials</desc>
+    <topic>Wide bandgap semiconductors</topic>
+    <topic>Device and materials design</topic>
+    <topic>Semiconductor for photonics / photovoltaics</topic>
+    <topic>Functional materials for optoelectronics</topic>
+    <topic>Optical resonators / devices</topic>
+    <coord>
+        <nm>Dr. Shovon Pal</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Satyaprakash Sahoo</nm><af>IOP Bhubaneswar</af>
+        <nm>Prof. Umaprasanna Ojha</nm><af>IIT Bhubaneswar</af>
+    </coord>
+</symp>
+<symp>
+    <sy>B</sy>
+    <desc>Quantum Materials</desc>
+    <topic>Topological material and devices</topic>
+    <topic>Magnetic and Superconducting materials and devices</topic>
+    <topic>2-D materials and devices</topic>
+    <topic>Spintronics</topic>
+    <topic>Skyrmions</topic>
+    <coord>
+        <nm>Prof. Subhankar Bedanta</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Anamitra Mukharjee</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Debakanta Samal</nm><af>IOP Bhubaneswar</af>
+    </coord>
+</symp>
+<symp>
+    <sy>C</sy>
+    <desc>Energy and Sustainable Materials</desc>
+    <topic>Self-powered devices</topic>
+    <topic>Porous materials (MOFs, COFs, Cages and Zeolites)</topic>
+    <topic>Perovskite materials</topic>
+    <topic>Nuclear materials</topic>
+    <topic>Piezo, Tribo, Pyro, Thermoelectric materials</topic>
+    <topic>Sustainable materials for energy conversion and storage</topic>
+    <coord>
+        <nm>Dr. Satyaprasad P Senanayak</nm><af>NISER Bhubaneswar</af>
+        <nm>Prof. Jogendra Nath Behera</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Dipak Samanta</nm><af>NISER Bhubaneswar</af>
+    </coord>
+</symp>
+<symp>
+    <sy>D</sy>
+    <desc>Applied Soft and Biomaterials</desc>
+    <topic>Bio-derived materials</topic>
+    <topic>Materials for Bio/Medical applications</topic>
+    <topic>Soft materials Technology</topic>
+    <topic>Flexible and wearable materials</topic>
+    <coord>
+        <nm>Dr. Sumedha</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. A V Anil Kumar</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Nagendra Sharma</nm><af>NISER Bhubaneswar</af>
+    </coord>
+</symp>
+<symp>
+    <sy>E</sy>
+    <desc>Advanced Methods in Materials</desc>
+    <topic>Advanced spectroscopic techniques</topic>
+    <topic>Advanced microscopic techniques</topic>
+    <topic>Advanced scattering and diffraction techniques</topic>
+    <topic>Advanced material characterisation techniques</topic>
+    <topic>Advanced device fabrication techniques</topic>
+    <coord>
+        <nm>Dr. Kartikeswar Senapati</nm><af>NISER Bhubaneswar</af>
+        <nm>Prof. Himanshu Sekhar Biswal</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Chandra Shekhar Purohit</nm><af>NISER Bhubaneswar</af>
+    </coord>
+</symp>
+<symp>
+    <sy>F</sy>
+    <desc>Alloys and Composites</desc>
+    <topic>Metallurgical alloys</topic>
+    <topic>Soft alloys</topic>
+    <topic>Refractory composites</topic>
+    <topic>High entropy alloys</topic>
+    <topic>Polymer composites</topic>
+    <coord>
+        <nm>Dr. Ajaya K Nayak</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Mamata Mohapatra</nm><af>IMMT Bhubaneswar</af>
+        <nm>Dr. Dinesh Topwal</nm><af>IOP Bhubaneswar</af>
+    </coord>
+</symp>
+<symp>
+    <sy>G</sy>
+    <desc>Critical and Strategic Materials</desc>
+    <topic>Ion/electron/photon interactions with materials</topic>
+    <topic>Materials for space and radiation hazards</topic>
+    <topic>Materials and techniques for national security</topic>
+    <topic>Materials from waste and strategic minerals</topic>
+    <coord>
+        <nm>Dr. Pratap K Sahoo</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Shyamal Chatterjee</nm><af>IIT Bhubaneswar</af>
+        <nm>Prof. Tapobrata Som</nm><af>IOP Bhubaneswar</af>
+    </coord>
+</symp>
+<symp>
+    <sy>H</sy>
+    <desc>Materials Modelling and Simulation</desc>
+    <topic>DFT for new materials</topic>
+    <topic>First principle calculation</topic>
+    <topic>Search for emerging materials</topic>
+    <topic>Materials modeling methods beyond DFT</topic>
+    <coord>
+        <nm>Dr. Joydeep Bhattacharjee</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Prasanjit Samal</nm><af>NISER Bhubaneswar</af>
+        <nm>Dr. Ashis K Nandy</nm><af>NISER Bhubaneswar</af>
+    </coord>
+</symp>
+</symposium>
